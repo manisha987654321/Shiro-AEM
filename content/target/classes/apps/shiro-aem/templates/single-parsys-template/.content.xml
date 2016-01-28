@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Template"
+    jcr:title="Single Parsys Template"
+    jcr:description="This template is available within shiro-aem folder under /content hierarchy and contains a single parsys streching whole width"
+    ranking="{Long}100"
+    allowedPaths="[/content/shiro-aem(/.*)?]"    >
+    <jcr:content
+        jcr:primaryType="cq:PageContent"
+        sling:resourceType="shiro-aem/components/pages/basic-page"/>
+</jcr:root>

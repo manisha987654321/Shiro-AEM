@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shiro-AEM.iml" filepath="$PROJECT_DIR$/shiro-AEM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundle/shiro-AEM-bundle.iml" filepath="$PROJECT_DIR$/bundle/shiro-AEM-bundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/content/shiro-AEM-content.iml" filepath="$PROJECT_DIR$/content/shiro-AEM-content.iml" />
+    </modules>
+  </component>
+</project>
+
